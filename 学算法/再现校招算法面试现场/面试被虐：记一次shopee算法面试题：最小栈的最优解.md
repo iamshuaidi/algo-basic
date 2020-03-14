@@ -140,3 +140,12 @@ public class 设计一个有gitMin的栈 {
 #### 四、总结
 
 虽然这道题总体不难，不过一道题的解法多种多样，我们千万不能止步于最简单的解法，而应该寻找最优解。后面我也会讲一些面试相关的题，并且每次讲的时候，都会给出详细的解答，从暴力一步步到最优。
+
+
+
+学习更多**算法** + **计算机基础知识**，欢迎关注我的微信公众号，每天准时推送技术干货
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200306223728524.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3OTA3Nzk3,size_16,color_FFFFFF,t_70)
+
+
+

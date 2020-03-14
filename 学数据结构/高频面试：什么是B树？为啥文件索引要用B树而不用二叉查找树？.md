@@ -132,4 +132,9 @@
 
 关于 B 树和 B+ 树，在面试的过程中，还是问的挺多滴，特别是问到数据库的时候，基本会问索引，进而问到 B+ 树，从而也会扯到 B 树。所以掌握着两种树的应用以及原理，是非常重要的，虽然他们的规则很复杂，但是如果是应付面试等，其实不需要背那些规则，只需要知道大概以及知道他们的原理即可。
 
+学习更多**算法** + **计算机基础知识**，欢迎关注我的微信公众号，每天准时推送技术干货
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200306223728524.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3OTA3Nzk3,size_16,color_FFFFFF,t_70)
+
+
 

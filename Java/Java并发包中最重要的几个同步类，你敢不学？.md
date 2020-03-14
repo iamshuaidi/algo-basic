@@ -386,3 +386,9 @@ public void acquire(int permits) throws InterruptedException {
 
 今天给大家介绍了并发包中几个重要、常用的几个类，通过这些类我们可以发现，他们都是基于 AQS、CAS 来实现的，当然，AQS 也是依赖于 CAS，所以，想要搞懂这些类，我们还得苦下工夫看看 AQS 是如何实现的，
 
+学习更多**算法** + **计算机基础知识**，欢迎关注我的微信公众号，每天准时推送技术干货
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200306223728524.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3OTA3Nzk3,size_16,color_FFFFFF,t_70)
+
+
+

@@ -120,4 +120,13 @@ public class CASTest {
 
 理解 CAS 的原理还是非常重要的，它是 AQS 的基石，而 AQS 又是并发框架的基石，接下来有时间的话，还会写一篇 AQS 的文章。
 
-如果你觉得这篇内容对你挺有启发，我想邀请你帮我三个忙，让更多的人看到这篇文章：
+学习更多**算法** + **计算机基础知识**，欢迎关注我的微信公众号，每天准时推送技术干货
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200306223728524.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3OTA3Nzk3,size_16,color_FFFFFF,t_70)
+
+
+
+
+
+
+

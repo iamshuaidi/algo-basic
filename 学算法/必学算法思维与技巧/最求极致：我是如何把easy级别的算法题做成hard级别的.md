@@ -111,3 +111,12 @@
 #### 总结
 
 今天 姑且分享一些对**追求极致**的一些看法以及举了两道题，这两道题也是自己精挑细选的，希望大家能够有所收获，并且以后做题的时候能够严格要求自己。后面我会分享后面的几类题，每次都会分享一些不过的例题，力求至少让你看完这些例题，能够有所收获。
+
+
+
+学习更多**算法** + **计算机基础知识**，欢迎关注我的微信公众号，每天准时推送技术干货
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200306223728524.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3OTA3Nzk3,size_16,color_FFFFFF,t_70)
+
+
+

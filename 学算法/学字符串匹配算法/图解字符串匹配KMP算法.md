@@ -1,3 +1,5 @@
+> 这篇其实不是玩写的，是来自于阮一峰的网络日记，我觉得写的很好，所以转载过来，这里感谢阮一峰老师的创作
+
 #### 前言
 
 字符串匹配是计算机的基本任务之一。
@@ -174,3 +176,12 @@
 
 
 3、我不给出代码实现了，希望大家能根据这个思路，不看别人的代码实现一遍，之后你也可以手写kmp字符匹配算法了。
+
+
+
+学习更多**算法** + **计算机基础知识**，欢迎关注我的微信公众号，每天准时推送技术干货
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200306223728524.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3OTA3Nzk3,size_16,color_FFFFFF,t_70)
+
+
+
