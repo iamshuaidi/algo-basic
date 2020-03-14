@@ -210,6 +210,8 @@
 
 电子书的整理也是挺不容易，如果你觉得有帮助，想要打赏作者，那么可以通过这个收款码打赏我，金额不重要，心意最重要，主要是我可以通过这个打赏情况来预计大家对这本电子书的评价，嘻嘻。
 
+> 注：打款时可以备注下你的昵称哦，可以是 CSDN，可以是 微信，可以是 GitHub等
+
 
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200313182110902.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3OTA3Nzk3,size_16,color_FFFFFF,t_70)
