@@ -421,6 +421,42 @@ git push remote 标签名
 git push remote --tags
 ```
 
+
+
+#### 九、常用回滚操作系统
+
+##### 未执行commit 之前
+
+1、如果文件修改了，但是还没有添加到**暂存区**，也就是还没有执行 git add 操作，则可以使用 checkout 来回滚
+
+```
+git chechout -- filename
+```
+
+2、如果已经添加到暂存区，则可以用 reset 来撤销
+
+```
+git reset HEAD filename
+```
+
+##### 执行了 commit 之后
+
+1、**使用 revert 来撤销某次提交**
+
+```
+git revert commitID
+// 注：git revert 命令是撤销某次操作，而在此次操作之前和之后的提交记录都会保留
+```
+
+2、**使用 reset 直接回滚到某个版本**
+
+```
+git  reset --hard  commit_id
+// --hard – 强制将缓存区和工作目录都同步到你指定的提交
+```
+
+这个操作不可逆，会把 commit_id 之后的全部回滚
+
 #### 总结
 
 如果把这些命令掌握了，那么 git 就顺手拈来了，不过很多命令是比较容易忘的，所有还是比较需要一份 git 手册，以后用到的时候多查几次，多用几次命令，相信就能够记住了。
